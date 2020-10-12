@@ -13,17 +13,22 @@ Foram adicionados outras funcionalidades ao longo do tempo, como acompanhamento 
 Foi adicionado, também, um menu onde era possível ter acessos aos BIs (Qlik e PowerBI), aos manuais, POPs, DOCs, e-mail, e anotações 
 
 
-Tela inicial
+#Tela inicial
+
 [til](apresentacao/main.jpg)
 
-Login
-![til](apresentacao/login.jpg)
+#Login
 
-pesquisa por gerentes regionais
-![til](.apresentacao/regional.jpg)
+[til](apresentacao/login.jpg)
 
-pesquisa por loja
-[til](.apresentacao/loja.jpg)
+#pesquisa por gerentes regionais
 
-Visualizando os indicadores com mais detalhes
-![til](.apresentacao/vendas[1].gif)
+[til](apresentacao/regional.jpg)
+
+#pesquisa por loja
+
+[til](apresentacao/loja.jpg)
+
+#Visualizando os indicadores com mais detalhes
+
+[til](apresentacao/vendas[1].gif)

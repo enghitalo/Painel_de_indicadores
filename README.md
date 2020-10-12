@@ -19,16 +19,16 @@ Foi adicionado, também, um menu onde era possível ter acessos aos BIs (Qlik e 
 
 # Login
 
-[til](.apresentacao/login.jpg)
+![til](apresentacao/login.jpg)
 
 #pesquisa por gerentes regionais
 
-[til](apresentacao/regional.jpg)
+![til](apresentacao/regional.jpg)
 
 # pesquisa por loja
 
-[til](apresentacao/loja.jpg)
+![til](apresentacao/loja.jpg)
 
 # Visualizando os indicadores com mais detalhes
 
-[til](apresentacao/vendas[1].gif)
+![til](apresentacao/vendas[1].gif)

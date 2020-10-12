@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1028234495730",
+    "firebase_url": "https://qliktosheet.firebaseio.com",
+    "project_id": "qliktosheet",
+    "storage_bucket": "qliktosheet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028234495730:android:fc90ab2b1deb089549b26b",
+        "android_client_info": {
+          "package_name": "com.hitalo.flutter_app2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028234495730-sc1hq97rvs85k8kclum6aifrgbv6pupk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYpxY_Opc3uvBVhzde9YM85zIDYfJyk3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028234495730-sc1hq97rvs85k8kclum6aifrgbv6pupk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
